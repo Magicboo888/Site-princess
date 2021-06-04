@@ -1,0 +1,56 @@
+* {
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  margin: auto;
+  padding: 0 6rem;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.imgjv {
+	height: 25rem;
+	width: 20rem;
+}
+.jv {
+	font-family: "press start 2p";
+	font-weight: 600;
+	font-size: medium;
+}
+
+.legend {
+	font-family: "special elite";
+}
+
+.star {
+	font-family: "monoton";
+}
+
+.imgdisney {
+	height: 20rem;
+	width: 25rem;
+}
+.disney {
+	font-family: "parisienne";
+	font-weight: 600;
+	font-size: x-large;
+}
+
+.bd {
+	font-family: "comic sans ms";
+}
+.flottante {
+  float: left;
+}
+
+#princess {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

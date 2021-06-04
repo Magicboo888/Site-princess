@@ -1,0 +1,34 @@
+p
+{
+	color: red;
+}
+
+.luciana
+{
+	color: red;
+}
+
+.eva
+{
+	color: purple;
+}
+*
+{
+	font-family: "comic sans ms";
+}
+
+.flottante
+{
+	float: left;
+}
+
+#princess
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+header
+{
+}
